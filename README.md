@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsha</h1>
-<h3 align="center">Welcome to My World !!</h3>
+<h3 align="center">Welcome to My World !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsha545&label=Profile%20views&color=0e75b6&style=flat" alt="adarsha545" /> </p>
 
@@ -20,10 +20,10 @@
 <a href="https://instagram.com/adarsha.ghsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsha.ghsh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/adarsha545" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/adarsha545" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adarshaghosh545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshaghosh545" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/adarsha545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adarsha545" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/@adarsha545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@adarsha545" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsha_ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsha_ghosh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@adarsha545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@adarsha545" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.hackerearth.com/@adarsha545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.hackerearth.com/@adarsha545" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/@adarsha545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@adarsha545" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
